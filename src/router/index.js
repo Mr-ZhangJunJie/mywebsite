@@ -19,7 +19,12 @@ export default new Router({
         {
           path:'pagepc',
           component: resolve => require(['@/components/Pagepc'],resolve).default
+        },
+        {
+          path:'allmethods',
+          component: resolve => require(['@/components/mainMethod'],resolve).default
         }
+
       ]
     }
   ]

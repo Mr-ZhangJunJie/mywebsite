@@ -39,7 +39,7 @@
     name: 'Home',
     data() {
       return {
-        list:[{title:'活动',iconName:'el-icon-message',item:[{name:'运签',indexM:'1-1',link:'fortune'},{name:'剪纸',indexM:'1-2',link:'pagepc'}]},{title:'潮拍',iconName:'el-icon-menu',item:[]},
+        list:[{title:'活动',iconName:'el-icon-message',item:[{name:'运签',indexM:'1-1',link:'fortune'},{name:'剪纸',indexM:'1-2',link:'pagepc'},{name:'活动主要方法',indexM:'1-3',link:'allmethods'}]},{title:'潮拍',iconName:'el-icon-menu',item:[]},
           {title:'ES6',iconName:'el-icon-setting',item:[]}]
       }
     },
